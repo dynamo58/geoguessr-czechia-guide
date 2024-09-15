@@ -12,4 +12,4 @@ All contributions are welcome. Please open up an issue or a pull request to do s
 
 # Licensing statement
 
-This document legally incorporates works of other entities, especially graphic ones. Those are listed in the *Acknowledgements section* of the document. All other content is hereby declared to be in the **public domain**.
+This document legally incorporates works of other entities, especially graphic ones. Those are listed in the *Acknowledgements section* of the document. These contents adhere to their original licensing parameters. All other content is hereby declared to be in the **public domain**.
