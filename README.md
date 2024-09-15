@@ -2,13 +2,13 @@
 
 This is the GitHub repository of **Czechia – a thorough Geoguessr guide**.
 
-# Where is the it?????????????
+# Where is it?????????????
 
 [The doc.pdf file](./doc.pdf)
 
 # Contributing
 
-All contributions of welcome. Please open up an issue or open a pull request to do so. Other possibilities are briefly touched upon in the document.
+All contributions are welcome. Please open up an issue or a pull request to do so. Other possibilities are briefly touched upon in the document.
 
 # Licensing statement
 
